@@ -1,4 +1,4 @@
 #!/bin/bash
 
-cp -r .claude ~/
-mv .zshrc ~/
+cp -r .dotfiles/.claude ~/
+mv .dotfiles/.zshrc ~/
