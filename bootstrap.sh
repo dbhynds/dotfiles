@@ -2,3 +2,4 @@
 
 cp -r .dotfiles/.claude ~/
 mv .dotfiles/.zshrc ~/
+source ~/.zshrc
